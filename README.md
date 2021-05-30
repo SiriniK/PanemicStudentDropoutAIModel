@@ -6,6 +6,7 @@ In this study we look at a dataset from a journal article titled "Impact of lock
 This will help administrators intervene early and attempt to prevent these students from dropping out. The model will also be helpful if we are to face another pandemic.
 
 This project contains the code to use sentiment analysis to convert text comments to an integer. After that IBM Waston Data Studio's AutoExperiment is to develop the model.
+Please see AutoExperiment.mp4 in GitHub that shows how the AutoExperiment worked.
 
 https://www.youtube.com/watch?v=xpG4BY46VIM&t=5s
 
